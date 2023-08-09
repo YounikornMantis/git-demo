@@ -2,8 +2,7 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-Life gives the test first and the lesson after.
+1. index.html
 
-Ture wisdom is planting a tree knowing you will never bask in its shade.
